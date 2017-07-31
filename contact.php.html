@@ -19,7 +19,8 @@
 	@import url("css/main.css");
 	-->
 	</style>
-  </head>
+
+	    </head>
 
 	<body>
 
@@ -32,36 +33,35 @@
 			<p> <a href="index.php.html">home</a> | <a href="thumbs.php%3Fcat=20.html">Painted memory (photos)</a> | <a href="thumbs.php%3Fcat=1.html">Floating Scrolls</a> | <a href="thumbs.php%3Fcat=2.html">After Hiroshima</a> | <a href="thumbs.php%3Fcat=14.html">After Hiroshima Drawings</a> | <a href="thumbs.php%3Fcat=6.html">Genteel Noir</a> | <a href="thumbs.php%3Fcat=16.html">Genteel Prints</a> | <a href="thumbs.php%3Fcat=17.html">Genteel Koblenz</a> | <a href="thumbs.php%3Fcat=11.html">Ghost Objects</a> | <a href="thumbs.php%3Fcat=3.html">Images of Slavery</a> | <a href="thumbs.php%3Fcat=12.html">Imperial War Museum</a> | <a href="thumbs.php%3Fcat=4.html">Museum Shoes</a> | <a href="thumbs.php%3Fcat=8.html">Shadow Drawings</a> | <a href="thumbs.php%3Fcat=5.html">Tales from the Boarders</a> | <a href="thumbs.php%3Fcat=13.html">Torn Shoes</a> | <a href="thumbs.php%3Fcat=18.html">The Visible Body</a> | <a href="thumbs.php%3Fcat=9.html"></a> | <a href="contact.php.html">contact</a></p>	  </div>
 		<a name="content"></a>
 		<div id="main">
-		<!--	<h1><a href="/index.php" title="Return to the home page" accesskey="1" class="homeLink">Gunilla Treen</a></h1> -->
 
+		<form action="/thanks/" method="post" id="contact-form">
 
-		<form action="contact.php.html" method="post" name="contact">
-	<fieldset>
-	<legend>Contact</legend>
-	<input type="hidden" name="submitted" value="yes" />
-    <label for="feedback">Your message<span class="required">*</span>:</label>
-	<span id="sprytextarea1">
-	<textarea name="feedback" rows="5" cols="35" id="feedback"></textarea>
-    <span class="textareaRequiredMsg">A value is required.</span><span class="textareaMaxCharsMsg">Exceeded maximum number of characters.</span><span class="textareaMinCharsMsg">Minimum number of characters not met.</span></span>&nbsp;<br />
-    	<label for="name">Your name<span class="required">*</span>:</label>
-	<span id="sprytextfield1">
-    <input type="text" name="name" value="" size="40" maxlength="250" id="name" />
-    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span>&nbsp;<br />
-    	<label for="email">Your email<span class="required">*</span>:</label>
-	<span id="sprytextfield2">
-    <input type="text" name="email" value="" size="40" maxlength="250" id="email" />
-    <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span><span class="textfieldMaxCharsMsg">Exceeded maximum number of characters.</span></span>&nbsp;<br />
-		<input type="submit" name="Submit" value="Send" />
-	</fieldset>
-	</form>
-	<p><span class="required">*</span> required</p>
-    <script type="text/javascript">
-	<!--
-	var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "none", {minChars:2, maxChars:100});
-	var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2", "email", {minChars:5, maxChars:200});
-	var sprytextarea1 = new Spry.Widget.ValidationTextarea("sprytextarea1", {maxChars:500, minChars:2, useCharacterMasking:false});
-	//-->
-	</script>
+      <fieldset>
+
+            <input type="hidden" name="_to" value="anne.teahan1@btopenworld.com">
+            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
+            <input type="hidden" name="_subject" value="Web form">
+            <p>
+            <label for="name">Name:</label>
+            <input type="text" name="name">
+            </p>
+            <p>
+            <label for="_replyto">Email:</label>
+            <input type="text" name="_replyto">
+            </p>
+            <p>
+            <label>Message</label>
+            <textarea name="message"></textarea>
+            </p>
+            {% if site.recaptcha_site_key %}
+            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+            {% endif %}
+      	<p>
+            <input type="submit" value="Send message">
+            </p>
+      </fieldset>
+
+      </form>
 
 
 	</div> <!-- end main -->
