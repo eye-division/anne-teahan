@@ -2,8 +2,8 @@
 title: "After Hiroshima"
 display_title: true
 permalink: /gallery/after-hiroshima/
-frontpage: false
-frontpagetitle: Gallery
+frontpage: true
+frontpagetitle: "After Hiroshima"
 homepage_description_markdown: >-
   
 gallery_date: 2019-03-01 00:00:00

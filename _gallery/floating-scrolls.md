@@ -2,8 +2,8 @@
 title: "Floating scrolls"
 display_title: true
 permalink: /gallery/floatings-scrolls/
-frontpage: false
-frontpagetitle: Gallery
+frontpage: true
+frontpagetitle: "Floating scrolls"
 homepage_description_markdown: >-
   
 gallery_date: 2019-04-01 00:00:00
