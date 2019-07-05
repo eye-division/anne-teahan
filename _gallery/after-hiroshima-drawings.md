@@ -2,8 +2,8 @@
 title: "After Hiroshima Drawings"
 display_title: true
 permalink: /gallery/after-hiroshima-drawings/
-frontpage: false
-frontpagetitle: Gallery
+frontpage: true
+frontpagetitle: "After Hiroshima Drawings"
 homepage_description_markdown: >-
   
 gallery_date: 2019-02-01 00:00:00

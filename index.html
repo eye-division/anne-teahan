@@ -1,15 +1,12 @@
 ---
 layout: home
 main_image_path: "/assets/images/homepageimage.jpg"
-main_image_caption:
+main_image_caption: "Floating Scroll"
 show_carousel: false
 show_blog: false
 posts_number: 2
 carousel:
-  - image: /assets/images/advert-customers.jpg
-    caption: "A test caption"
-    alink: /gallery/test/
-  - image: /assets/images/advert-impregnable.jpg
+  - image:
     caption:
     alink:
 _options:
@@ -39,18 +36,9 @@ _comments:
   alink: Optional web link from the slide
   caption: optional caption
 ---
-  {% if page.main_image_path %}
-  <!-- parallax picture please -->
-    <figure>
-    {% assign alt_text = page.title %}
-    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
-    {% include img.html src=page.main_image_path alt=alt_text %}
-    <figcaption>{{ alt_text }}</figcaption>
-    </figure>
-  {% endif %}
+
 
   <div class="editable">
-    <p>This demo front page shows how you can profile individual galleries and pages to appear on the front, with a custom image, introductory title and text for each. This is the standard display with full page-width images and titles underneath, but other options are available.</p>
 
   </div>
 
@@ -83,11 +71,8 @@ _comments:
 
       {% if section.frontpage %}
 
-        {% if section.main_image_path %}
-          <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
-        {% else %}
-          <section class="gallery--cover has--cover" style="background-image: url('https://placekitten.com/g/1200/300');">
-        {% endif %}
+
+        <section class="gallery--cover has--cover" style="background-image: url({% if section.main_image_path %}{{ section.main_image_path }}{% else %}'https://placekitten.com/g/1200/300'{% endif %});">
 
           <a href="{{ section.url | prepend: site.baseurl }}">
 
@@ -136,6 +121,10 @@ _comments:
       {% endif %}
 
     {% endfor %}
+
+    <section>
+      <p><a href="/gallery/" class="post--readmore">View all galleries <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></p>
+    </section>
 
 
 {% if page.show_blog %}
