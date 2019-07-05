@@ -24,8 +24,6 @@ asset_url: "/assets/"
 # Build settings
 markdown: kramdown
 
-permalink: pretty
-
 show_social_top: false
 
 #inter_post_navigation: false
