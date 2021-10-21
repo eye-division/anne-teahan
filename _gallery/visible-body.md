@@ -7,7 +7,7 @@ frontpagetitle: Gallery
 homepage_description_markdown:
 gallery_date: 2018-12-01 00:00:00
 display_image: false
-main_image_path: /assets/images/481b45d1dd606.jpg
+main_image_path:
 main_image_caption: Torso 1
 thumb_crop: true
 display_thumb_title: true
