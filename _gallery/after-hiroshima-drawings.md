@@ -1,68 +1,66 @@
 ---
-title: "After Hiroshima Drawings"
+title: After Hiroshima Drawings
 display_title: true
 permalink: /gallery/after-hiroshima-drawings/
 frontpage: true
-frontpagetitle: "After Hiroshima Drawings"
-homepage_description_markdown: >-
-  
+frontpagetitle: After Hiroshima Drawings
+homepage_description_markdown:
 gallery_date: 2019-02-01 00:00:00
 display_image: false
-main_image_path: "/assets/images/46db032e8da17.jpg"
-main_image_caption: "Comfy Shoes"
-thumb_crop: true
+main_image_path: /assets/images/46db032e8da17.jpg
+main_image_caption: Comfy Shoes
+thumb_crop: false
 display_thumb_title: true
 images:
-  - image_path: "/assets/images/46db032e8da17.jpg"
-    image_title: "Comfy Shoes"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db038029bac.jpg"
-    image_title: "Baby Shoes"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db03ae3aee7.jpg"
-    image_title: "Court Shoes Drawing"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db03d0b2a4a.jpg"
-    image_title: "sandals"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db03efb528c.jpg"
-    image_title: "Lace-Up drawing"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db0802168c4.jpg"
-    image_title: "Big Boy"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db087560117.jpg"
-    image_title: "Glasses"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db08a4873ea.jpg"
-    image_title: "after Tsuchida"
-    image_description_markdown: ""
-  - image_path: "/assets/images/46db092b17462.jpg"
-    image_title: "Sunday Hat"
-    image_description_markdown: ""
-
+  - image_path: /assets/images/46db032e8da17.jpg
+    image_title: Comfy Shoes
+    image_description_markdown:
+  - image_path: /assets/images/46db038029bac.jpg
+    image_title: Baby Shoes
+    image_description_markdown:
+  - image_path: /assets/images/46db03ae3aee7.jpg
+    image_title: Court Shoes Drawing
+    image_description_markdown:
+  - image_path: /assets/images/46db03d0b2a4a.jpg
+    image_title: sandals
+    image_description_markdown:
+  - image_path: /assets/images/46db03efb528c.jpg
+    image_title: Lace-Up drawing
+    image_description_markdown:
+  - image_path: /assets/images/46db0802168c4.jpg
+    image_title: Big Boy
+    image_description_markdown:
+  - image_path: /assets/images/46db087560117.jpg
+    image_title: Glasses
+    image_description_markdown:
+  - image_path: /assets/images/46db08a4873ea.jpg
+    image_title: after Tsuchida
+    image_description_markdown:
+  - image_path: /assets/images/46db092b17462.jpg
+    image_title: Sunday Hat
+    image_description_markdown:
 archive: false
 _options:
   image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: "assets/:year"
+    uploads_dir: assets/:year
 _comments:
   title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
   display_image: Show featured image at the top of the gallery
   display_title: Show the title at the top of the gallery
-  display_thumb_title: Show titles with image thumbnails 
+  display_thumb_title: Show titles with image thumbnails
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: Usually only shown in the image close up
