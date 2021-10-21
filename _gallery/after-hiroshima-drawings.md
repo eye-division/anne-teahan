@@ -14,7 +14,10 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/46db032e8da17.jpg
     image_title: Comfy Shoes
-    image_description_markdown:
+    image_description_markdown: |-
+      Extra long description
+
+      Paragraph **break here**
   - image_path: /assets/images/46db038029bac.jpg
     image_title: Baby Shoes
     image_description_markdown:
