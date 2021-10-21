@@ -1,5 +1,5 @@
 ---
-title: Visible Body
+title: Body in Space
 display_title: true
 permalink: /gallery/visible-body/
 frontpage: false
