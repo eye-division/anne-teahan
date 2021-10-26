@@ -14,7 +14,15 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/597f622859059.jpg
     image_title: Trump Faces, Trump Mouths
-    image_description_markdown: Oil on canvas
+    image_description_markdown: >-
+      2016&nbsp; &nbsp;Oil on canvas&nbsp; 48 x 24ins
+
+
+      Paintings from frozen screen grabs
+
+
+      Exhibited at Tate Exchange, Tate Modern selected for a project in
+      captioning artworks.
   - image_path: /assets/images/597f623cab0b6.jpg
     image_title: Trump Faces
     image_description_markdown: Oil on canvas
