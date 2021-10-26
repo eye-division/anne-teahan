@@ -27,7 +27,7 @@ images:
       43x130cms<br>Printed torn drawings on fragmented cartridge paper & grey
       emulsion
   - image_path: /assets/images/46daf29e66155.jpg
-    image_title: Nuclear Family Installation
+    image_title: Nuclear Family
     image_description_markdown:
   - image_path: /assets/images/4696329d70802.jpg
     image_title: Close Up Shoes
