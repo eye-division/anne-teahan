@@ -30,7 +30,7 @@ images:
     image_title: Nuclear Family
     image_description_markdown: After Hiroshima Exhbition, SOAS, London
   - image_path: /assets/images/4696329d70802.jpg
-    image_title: Close Up Shoes
+    image_title: Sandals, Laceups
     image_description_markdown:
   - image_path: /assets/images/4696336033efe.jpg
     image_title: Close Up Sandals & Court Shoes
@@ -72,4 +72,5 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
