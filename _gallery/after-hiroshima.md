@@ -14,10 +14,18 @@ display_thumb_title: true
 images:
   - image_path: /assets/images/469635248598d.jpg
     image_title: Nuclear Family
-    image_description_markdown: |-
-      43x130cms<br>Printed torn drawings on fragmented cartridge paper.
+    image_description_markdown: >-
+      &nbsp;
 
-      Installation commissioned for 'After Hiroshima'
+
+      Installation for commemorative exhibition &nbsp;
+
+
+      'After Hiroshima', SOAS, London
+
+
+      43x130cms<br>Printed torn drawings on fragmented cartridge paper & grey
+      emulsion
   - image_path: /assets/images/46daf29e66155.jpg
     image_title: Nuclear Family Installation
     image_description_markdown:
