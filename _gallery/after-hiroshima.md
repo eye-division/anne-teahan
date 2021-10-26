@@ -42,8 +42,8 @@ images:
     image_title:
     image_description_markdown: Court Shoes, Sandals
   - image_path: /assets/images/46daf8b6e8ce7.jpg
-    image_title: Close up 1
-    image_description_markdown:
+    image_title:
+    image_description_markdown: Grandma's shoes, baby sandals
   - image_path: /assets/images/46dafb364e1bd.jpg
     image_title: Lace Ups
     image_description_markdown:
