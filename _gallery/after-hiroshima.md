@@ -30,8 +30,11 @@ images:
       43x130cms<br>Printed torn drawings on fragmented fabriano paper, grey
       emulsion
   - image_path: /assets/images/46daf29e66155.jpg
-    image_title: Nuclear Family
-    image_description_markdown: After Hiroshima Exhbition, SOAS, London
+    image_title:
+    image_description_markdown: |-
+      Nuclear Family
+
+      After Hiroshima Exhbition, SOAS, London
   - image_path: /assets/images/4696329d70802.jpg
     image_title:
     image_description_markdown:
