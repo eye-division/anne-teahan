@@ -33,8 +33,8 @@ images:
 
       Face
   - image_path: /assets/images/597f626261ff4.jpg
-    image_title: Trump Mouth close up
-    image_description_markdown: Oil on canvas
+    image_title:
+    image_description_markdown: Trump Mouth
 archive: false
 _options:
   image_path:
