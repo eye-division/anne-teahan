@@ -12,12 +12,15 @@ main_image_caption: Nuclear Family Installation
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /assets/images/469635248598d.jpg
+    image_title: Nuclear Family
+    image_description_markdown: |-
+      43x130cms<br>Printed torn drawings on fragmented cartridge paper.
+
+      Installation commissioned for 'After Hiroshima'
   - image_path: /assets/images/46daf29e66155.jpg
     image_title: Nuclear Family Installation
     image_description_markdown:
-  - image_path: /assets/images/469635248598d.jpg
-    image_title: Nuclear Family
-    image_description_markdown: 43x130cms<br> Print on fragmented cartridge paper.
   - image_path: /assets/images/4696329d70802.jpg
     image_title: Close Up Shoes
     image_description_markdown:
