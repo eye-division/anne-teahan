@@ -21,8 +21,10 @@ images:
       Nuclear Family
 
 
-      Installation at commemorative exhibition &nbsp;'After Hiroshima', SOAS,
-      London
+      Installation at commemorative &nbsp;
+
+
+      'After Hiroshima' exhibition, &nbsp;SOAS, London
 
 
       43x130cms<br>Printed torn drawings on fragmented fabriano paper, grey
