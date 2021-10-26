@@ -27,8 +27,11 @@ images:
     image_title: Trump Faces
     image_description_markdown: Oil on canvas
   - image_path: /assets/images/597f625163e28.jpg
-    image_title: Trump Face closeup
-    image_description_markdown: Oil on canvas
+    image_title:
+    image_description_markdown: |-
+      Oil on canvas&nbsp; &nbsp;12 x 12 ins
+
+      Face
   - image_path: /assets/images/597f626261ff4.jpg
     image_title: Trump Mouth close up
     image_description_markdown: Oil on canvas
