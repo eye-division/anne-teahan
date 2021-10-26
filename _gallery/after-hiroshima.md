@@ -6,7 +6,7 @@ frontpage: true
 frontpagetitle: After Hiroshima
 homepage_description_markdown:
 gallery_date: 2019-03-01 00:00:00
-display_image: true
+display_image: false
 main_image_path: /assets/images/46daf29e66155.jpg
 main_image_caption:
 thumb_crop: true
