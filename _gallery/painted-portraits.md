@@ -32,39 +32,6 @@ images:
   - image_path: /assets/images/597f626261ff4.jpg
     image_title: Trump Mouth close up
     image_description_markdown: Oil on canvas
-  - image_path: /assets/images/53daad0d7a66a.jpg
-    image_title: Dipytch
-    image_description_markdown: A3<br>Acrylic on canvas
-  - image_path: /assets/images/53dab67217149.jpg
-    image_title: Post War Wedding
-    image_description_markdown: Acrylic paint, masking tape, confetti on cartridge paper.
-  - image_path: /assets/images/53daaeddf2df7.jpg
-    image_title: Fragmented portrait
-    image_description_markdown: A4
-  - image_path: /assets/images/53dab699a347f.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab6bf13b89.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab6e6278f3.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab730b1753.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab7573958f.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab78a0cca3.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab7bbbc8da.jpg
-    image_title: Untitled
-    image_description_markdown:
-  - image_path: /assets/images/53dab7ddd5085.jpg
-    image_title: Untitled
-    image_description_markdown:
 archive: false
 _options:
   image_path:
