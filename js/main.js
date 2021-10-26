@@ -31,7 +31,11 @@
       controlNav: false,
       directionNav: true,
       slideshowSpeed: 5000,
+      smoothHeight: false,
+      animationLoop: true,
       animationSpeed: 600,
+      pauseOnAction: true,
+      useCSS: true,
       touch: true
     });
 
