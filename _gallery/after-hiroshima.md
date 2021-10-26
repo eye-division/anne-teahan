@@ -45,8 +45,8 @@ images:
     image_title:
     image_description_markdown: Grandma's shoes, baby sandals
   - image_path: /assets/images/46dafb364e1bd.jpg
-    image_title: Lace Ups
-    image_description_markdown:
+    image_title:
+    image_description_markdown: Lace ups
 archive: false
 _options:
   image_path:
