@@ -1,5 +1,5 @@
 ---
-title: Nuclear Family
+title: After Hiroshima
 display_title: true
 permalink: /gallery/after-hiroshima/
 frontpage: true
@@ -8,23 +8,24 @@ homepage_description_markdown:
 gallery_date: 2019-03-01 00:00:00
 display_image: false
 main_image_path: /assets/images/46daf29e66155.jpg
-main_image_caption: Nuclear Family Installation
+main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
   - image_path: /assets/images/469635248598d.jpg
-    image_title: Nuclear Family
+    image_title:
     image_description_markdown: >-
       &nbsp;
 
 
-      Installation for commemorative exhibition &nbsp;
+      Nuclear Family
 
 
-      'After Hiroshima', SOAS, London
+      Installation at commemorative exhibition &nbsp;'After Hiroshima', SOAS,
+      London
 
 
-      43x130cms<br>Printed torn drawings on fragmented cartridge paper & grey
+      43x130cms<br>Printed torn drawings on fragmented fabriano paper, grey
       emulsion
   - image_path: /assets/images/46daf29e66155.jpg
     image_title: Nuclear Family
@@ -72,5 +73,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
 
