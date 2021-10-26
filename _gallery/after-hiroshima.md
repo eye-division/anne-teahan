@@ -39,8 +39,8 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/4696336033efe.jpg
-    image_title: Close Up Sandals & Court Shoes
-    image_description_markdown: Fabriano paper
+    image_title:
+    image_description_markdown: Court Shoes, Sandals
   - image_path: /assets/images/46daf8b6e8ce7.jpg
     image_title: Close up 1
     image_description_markdown:
