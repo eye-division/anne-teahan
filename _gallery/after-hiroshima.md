@@ -37,7 +37,7 @@ images:
       After Hiroshima Exhbition, SOAS, London
   - image_path: /assets/images/4696329d70802.jpg
     image_title:
-    image_description_markdown:
+    image_description_markdown: Sandals, Lace ups
   - image_path: /assets/images/4696336033efe.jpg
     image_title:
     image_description_markdown: Court Shoes, Sandals
