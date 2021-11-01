@@ -33,7 +33,7 @@
       slideshowSpeed: 5000,
       smoothHeight: false,
       animationLoop: true,
-      animationSpeed: 600,
+      animationSpeed: 2000,
       pauseOnAction: true,
       useCSS: true,
       touch: true
