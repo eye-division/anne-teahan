@@ -29,7 +29,7 @@
     $('.flexslider').flexslider({
       animation: "fade",
       controlNav: false,
-      directionNav: true,
+      directionNav: false,
       slideshowSpeed: 5000,
       smoothHeight: false,
       animationLoop: true,
