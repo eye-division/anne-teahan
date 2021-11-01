@@ -6,6 +6,9 @@ _site
 # Sass garbage
 .sass-cache
 
+# Jekyll cache
+.jekyll-cache
+
 # Bundler
 Gemfile.lock
 .bundle/
